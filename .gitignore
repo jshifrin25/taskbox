@@ -26,6 +26,7 @@ yarn-error.log*
 .idea/**/codeStyleConfig.xml
 storybook-static/
 src/__snapshots__/
+build-storybook.log*
 
 ### JetBrains
 
