@@ -1,4 +1,7 @@
 {
+    "jsxhint.options": {
+        "esversion": 6
+    },
     "language": {
         "javascript": {
             "linting.prefer": ["JSXHint"],
